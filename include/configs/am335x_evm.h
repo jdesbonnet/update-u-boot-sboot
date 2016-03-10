@@ -512,4 +512,7 @@
 #endif
 #endif  /* NOR support */
 
+/* TPM */
+#define CONFIG_TPM_I2C_ATMEL
+
 #endif	/* ! __CONFIG_AM335X_EVM_H */
